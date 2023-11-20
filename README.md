@@ -7,7 +7,7 @@
 - ⚡ 2021 Mid      : Got My First Job as a Django Web Developer
 - ⚡ 2021 End      : Left the job as the time schedule was not matching due to a remote job
 - ⚡ 2022 Beginning: Got my 2nd & current job as a Jr. Odoo Backend Developer (Python)
-- ⚡ 2023 Beginning: Got promoted as Odoo Backend Developer (Python)
+- ⚡ 2023 Mid      : Got promoted as Odoo Backend Developer (Python)
 
 ## Something About me
 
