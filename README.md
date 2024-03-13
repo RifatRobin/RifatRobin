@@ -14,7 +14,7 @@
 - 🔭 Have some goals for the new generation
 - 🌱 Learning things 
 - 👯 Looking for people with whom I can learn more
-- 🤣 Fun fact: I love drawing / gaming
+- 🤣 Fun fact: I love drawing / gaming / watching anime
 
 
 ### Connect with me:
